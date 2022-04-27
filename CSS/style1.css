@@ -488,7 +488,7 @@
     }
 }
 @media screen and (min-width: 851px){
-    input{
+    .container input{
         width: 17.5%;
         
     }    
