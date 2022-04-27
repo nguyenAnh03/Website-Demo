@@ -427,11 +427,11 @@
     }
     #nav{
         min-width: 95%;
-        text-align: center;
+        text-align: right;
     }
     #nav a{
         margin: 0rem;
-        font-size: 18px;
+        font-size: 20px;
     }
 }
 @media screen and (min-width: 1920px){
